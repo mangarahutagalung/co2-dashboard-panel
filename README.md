@@ -5,6 +5,6 @@ Everybody loves a good dashboard. However, not everyone can afford to use Tablea
 
 I created my own dashboard in this repository using the world's CO2 data. My dashboard layout is inspired by the great [Thu Vu tutorial](https://www.youtube.com/watch?v=uhxiXOTKzfs&t=57s), which I highly recommend you watch to understand how to use Panel, with my own twist and flavor when designing the final dashboard. Here's a snippet of my dashboard:
 
-
+![co2-dashboard](https://github.com/mangarahutagalung/co2-dashboard-panel/blob/main/co2-interactive-dashboard-screenshot.png)
 
 With that said, have fun building your dashboard!
